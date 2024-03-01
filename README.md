@@ -2,6 +2,7 @@
  Hobby Generator created with several technologies
 
  Created that application for educational purposes.
+ Used Riverpod state management in this project.
  Used https package for fetch the api data.
  Used Firebase Auth for login/register.
  Used Firebase Firestore for storing bookmarked hobbies.
